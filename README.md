@@ -11,3 +11,4 @@ Atliq Hardware Company supplies computer hardware across india.
 
 Impact: Sales team able to take better decisions & prove 10% cost savings of total spend.
         saved business time of sales analyst by 20%.
+
